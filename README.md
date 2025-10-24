@@ -1,5 +1,8 @@
 # NLP-Based-Customer-Feedback-Intent-Clustering
 
+
+### Please note: Due to the interactive nature of the Plotly visualizations generated in this notebook, they are not directly viewable on GitHub. To experience the interactive plots, please download the notebook file and run it in a compatible environment like Google Colab. A PDF containing static versions of these visualizations has also been included for your reference
+
 ## Project Overview
 
 This project focuses on analyzing unstructured customer feedback to discover underlying intents, patterns, and sentiment trends. Using Natural Language Processing (NLP) and clustering algorithms, we group similar feedback together to help businesses understand customer needs and pain points efficiently.
